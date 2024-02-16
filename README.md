@@ -1,40 +1,48 @@
-<!--
-**rugvedi18/rugvedi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"><b>Hey there, I'm Rugvedi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi there! I'm Rugvedi (Quality Assuarance Analyst) </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Quality+Assuarance+Analyst;Wanderer..+Trekker..;Love+to+learn+new+stuffs..;"></a>
+</p>
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Automation Engineer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Software Tester</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">API Testing</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Tosca</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Cypress</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Postman</a>
-  •
-  <a href="https://ossinsight.io/blog">Javascript</a>
-</h3>
+<br>
 
-## About me
-As a Quality Assurance Analyst, I bring expertise in both manual and automation testing.
-I have hands-on experience in seamlessly integrating Cypress, a JavaScript framework, with GitLab CI/CD pipelines for efficient and automated testing processes.
-Proficient in API testing with tools like Postman and GraphQL, I ensure comprehensive testing coverage.
-Well-versed in effective collaboration using tools such as Jira, I follow agile methodologies to enhance project efficiency.
-Currently expanding my skill set by learning TOSCA and Selenium automation tools.
-### I’m currently learning 👇
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643d1851e2725773748ff928?variant=dark&roadmaps=qa)](https://roadmap.sh)
+- A passionate Quality Assuarance Analyst
+- Having hand's on experience in Automation Testing using [Cypress](https://docs.cypress.io/guides/overview/why-cypress) and [Tosca](https://www.tricentis.com/resources/tricentis-tosca-overview)
+- Currently learning [Selenium Automation Tool](https://www.selenium.dev/)
+- I’m currently open for a new job opportunity, this is my [Linkedin Profile](www.linkedin.com/in/rugvedi-jamgaonkar)
+
+<br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+
+   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white&color=darkred)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Automation Tools**:
+
+    ![Cypress](https://img.shields.io/badge/Cypress-4A4A55.svg?style=for-the-badge&logo=cypress&logoColor=white)
+    ![Tosca](https://img.shields.io/badge/Tosca-3178C6.svg?style=for-the-badge&logo=tricentis&logoColor=white)
+    ![selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
+<br>
+
+- **Softwares and Tools**:
+
+    ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=white&color=orange)
+    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
