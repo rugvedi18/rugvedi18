@@ -40,9 +40,9 @@
 
 - **Softwares and Tools**:
 
-    ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=white&color=orange)
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=white&color=orange)
+    ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
