@@ -9,10 +9,10 @@
 
 <br>
 
-- A passionate Quality Assuarance Analyst
-- Having hand's on experience in Automation Testing using [Cypress](https://docs.cypress.io/guides/overview/why-cypress) and [Tosca](https://www.tricentis.com/resources/tricentis-tosca-overview)
-- Currently learning [Selenium Automation Tool](https://www.selenium.dev/)
-- I’m currently open for a new job opportunity, this is my [Linkedin Profile](www.linkedin.com/in/rugvedi-jamgaonkar)
+- Passionate Quality Assurance Analyst.
+- Experienced in automation testing with Cypress and Tosca.
+- Currently enhancing my skills with the Selenium Automation Tool.
+- Actively seeking new job opportunities - here's my [Linkedin Profile](www.linkedin.com/in/rugvedi-jamgaonkar).
 
 <br><br>
 
