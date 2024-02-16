@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rugvedi18/rugvedi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I’m currently learning 👇
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643d1851e2725773748ff928?variant=dark&roadmaps=qa)](https://roadmap.sh)
