@@ -9,7 +9,7 @@
 <br>
 
 - Passionate Quality Assurance Analyst.
-- Experienced in API Testing using Postman, Automation Testing with Cypress and Tosca.
+- Experienced in API Testing using Postman, and in Automation Testing with Cypress and Tosca.
 - Currently enhancing my skills with the Selenium Automation Tool.
 - Actively seeking new job opportunities - here's my [Linkedin Profile](www.linkedin.com/in/rugvedi-jamgaonkar).
 
