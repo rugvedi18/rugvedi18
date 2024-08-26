@@ -1,13 +1,17 @@
-<h1 align="center"><b>Hey there, I'm RJ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>👋 Hello, I'm RJ! </b></h1>
 	
 ## <picture><img src = "https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width = 50px></picture> **About me**
-
+I'm a dedicated Quality Assurance Analyst who enjoys ensuring that software works smoothly and reliably. My interest in QA comes from a love of detail and a desire to make things better.
 <br>
 
-- Passionate Quality Assurance Analyst.
-- Experienced in REST and GraphQL API testing using Postman, and automation testing with Cypress and Tosca.
-- Currently enhancing my skills with the Selenium automation tool.
-- Actively seeking new job opportunities - here's my [Linkedin Profile](www.linkedin.com/in/rugvedi-jamgaonkar).
+ 💼 What I Do:
+
+- 🛠 Experienced in: REST and GraphQL API testing using Postman, and automation testing with Cypress and Tosca.
+- 🚀 Currently Improving: My skills with Selenium automation—because there’s always room to grow!
+- 🏆 Highlights: I’ve helped improve test coverage and contributed to more efficient and reliable software releases.
+
+🔗 Connect with Me:
+- I’m open to new opportunities where I can apply my skills and continue learning. Feel free to connect with me on [Linkedin](www.linkedin.com/in/rugvedi-jamgaonkar) if you'd like to discuss how I can contribute to your team.
 
 <br>
 
