@@ -1,7 +1,7 @@
 <h1 align="center"><b>👋 Hello, I'm RJ! </b></h1>
 	
 ## <picture><img src = "https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width = 50px></picture> **About Me**
-I'm a dedicated Quality Assurance Analyst who enjoys ensuring that software works smoothly and reliably. My interest in QA comes from a love of detail and a desire to make things better.
+I'm a dedicated <b>Quality Assurance Analyst</b> who enjoys ensuring that software works smoothly and reliably. My interest in QA comes from a love of detail and a desire to make things better.
 <br>
 
  💼 What I Do:
