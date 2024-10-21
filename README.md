@@ -29,8 +29,7 @@ I'm a dedicated <b>Quality Assurance Analyst</b> who enjoys ensuring that softwa
    ![Cypress](https://img.shields.io/badge/Cypress-4A4A55.svg?style=for-the-badge&logo=cypress&logoColor=white)
    ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
+   ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
 
